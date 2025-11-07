@@ -1,7 +1,7 @@
 import requests
 from speech_utils import speak
 
-newsapi = "40613cc4acdc4a409f8d7ee6c4a62f1f" 
+newsapi = "your-newsapi-key" 
 
 def get_news():
     """ Fetches latest news headlines """
